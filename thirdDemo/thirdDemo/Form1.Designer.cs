@@ -108,9 +108,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(142, 332);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(29, 12);
+            this.label3.Size = new System.Drawing.Size(35, 12);
             this.label3.TabIndex = 7;
-            this.label3.Text = "love";
+            this.label3.Text = "happy";
             // 
             // Form1
             // 
